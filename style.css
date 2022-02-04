@@ -1,0 +1,90 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px;
+    min-height:200px;
+}
+
+.footer{
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+/*
+.head {
+    background-color: #ffbf00;
+    color: white;
+    font-weight: 600;
+    padding: 10px 10px 10px 10px;
+    margin-bottom: 0px;
+}
+
+.reservation {
+    margin: 50px 50px 50px 50px;
+    
+}
+*/
+.left-side {
+    padding: 10px 25px 10px 25px;
+}
+
+.inline-form {
+    padding: 10px 25px 10px 25px;
+}
+/*
+.form-content {
+    border: solid;
+    border-color: #c7c7c7;
+    border-width: 1px;;
+    padding-bottom: 30px;
+}*/
+
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+
+
+/*Modal*/
+
+.modal-header {
+    background-color: darkblue;
+    color: floralwhite;
+}
+.close span{
+    color: floralwhite;
+}
+.modal-body {
+    background-color: #d1c5e8;
+}
